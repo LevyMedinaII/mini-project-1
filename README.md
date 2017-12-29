@@ -10,7 +10,7 @@ design of this page, make sure that the links are centered horizontally and vert
 2 by 2 layout.  
 
 ##### Example:  
-Link1 | Link2
+Link1 | Link2  
 =-=-=-=-=-=-=  
 Link3 | Link 4
 
